@@ -1,2 +1,2 @@
 # events-app-internal
-External
+Internal
